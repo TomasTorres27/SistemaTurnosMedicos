@@ -1,8 +1,8 @@
 # Sistema de Turnos Médicos - Diseño Orientado a Objetos
 
-- Grupo: Grupo N° 8
-- Carrera: Tecnicatura en Programación
-- Materia: Diseño Orientado a Objetos
+- **Grupo:** Grupo N° 8
+- **Carrera:** Tec. en Programación de Sistemas
+- **Materia:** Diseño Orientado a Objetos
 
 ## Introduccion
 Sistema para gestionar turnos médicos. Este proyecto tiene como objetivo registrar los turnos de un consultorio medico.
