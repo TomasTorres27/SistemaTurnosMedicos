@@ -19,8 +19,8 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
 ### Changed
 - [feature/analista-requerimientos-add-introduccion-md] Actualización de introduccion.md con requisitos iniciales.
   PR: [#8](https://github.com/TomasTorres27/SistemaTurnosMedicos/pull/8) - @TomasTorres27 (Analista de requerimientos)
-- [feature/doc-coord-repo-update-readme-md] Actualización README.md e introduccion.md.  
-  PR: [#]() - @ANeicuan (Documentador y Coordinador)
+- [feature/doc-coord-repo-update-readme-md] Actualización README.md, changelog.md e introduccion.md.  
+  PR: [#11](https://github.com/TomasTorres27/SistemaTurnosMedicos/pull/11) - @ANeicuan (Documentador y Coordinador)
 ### Fixed
 
 ---
