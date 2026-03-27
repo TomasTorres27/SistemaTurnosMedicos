@@ -8,7 +8,7 @@ Este archivo se actualiza con cada Pull Request para registrar avances y correcc
 
 ### Added
 - [feature/doc-coord-repo-update-readme-md] Agrego README.md, introduccion.md  y carpeta diagramas
-  PR: [#]() - @ANeicuan (Documentador y Coordinador)
+  PR: [#11](https://github.com/TomasTorres27/SistemaTurnosMedicos/pull/11) - @ANeicuan (Documentador y Coordinador)
 - [feature/diseniador-clases-add-boceto-inicial] Agrego boceto inicial de clases.
   PR: [#]() - @ANeicuan (Diseñador de Clases Iniciales)
 - [feature/modelador-casos-uso-update-use-case-1] Agrego casos de uso a introduccion.md
